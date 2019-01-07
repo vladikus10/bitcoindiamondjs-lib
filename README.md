@@ -4,7 +4,7 @@
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-A javascript Bitcoin library for node.js and browsers.
+Fork for bitcoin diamond, as the current official bitcoin diamond fork is missing the payments files.
 
 Released under the terms of the [MIT LICENSE](LICENSE).
 
